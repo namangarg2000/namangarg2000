@@ -10,5 +10,4 @@ Link to my resume: https://drive.google.com/file/d/1ofFEvhhlKJuWzwUrv0uCHe7dbLFF
 - 🔭 I’m currently working on developing my skills.
 - 🌱 I’m currently learning web development and machine learning.
 - 👯 I’m looking to collaborate on python or web development projects.
-- 💬 Ask me about ...
 - 📫 How to reach me: Email me at: namangarg155@gmail.com
