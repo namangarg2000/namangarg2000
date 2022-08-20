@@ -19,7 +19,7 @@ A reliable and detail-orientated individual with a proclivity for time managemen
 
 ## Internships / Work Experience
  ### MakeMyTrip India Pvt. Ltd.
- - Intern (Backend Development) (Full Time)
+ #### Intern (Backend Development) (Full Time)
  - Helped with troubleshooting, debugging and upgrading existing software, making software more efficient and effective.
  - Successfully created HTML templates, Python files and CSS for UI module development.
  - Skilfully produced clean, efficient and bug-free code for software development projects.
