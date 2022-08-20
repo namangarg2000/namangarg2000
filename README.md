@@ -24,3 +24,12 @@ A reliable and detail-orientated individual with a proclivity for time managemen
  - Successfully created HTML templates, Python files and CSS for UI module development.
  - Skilfully produced clean, efficient and bug-free code for software development projects.
  - Learned new skills, testing techniques and troubleshooting best practices.
+
+## Interests
+- Table Tennis
+- Travelling
+- Bowling
+
+## To know more about me
+- Feel free to email me at namangarg155@gmail.com
+- Feel free to connect with me on LinkedIn: https://linkedin.com/in/namangarg155
